@@ -1,3 +1,3 @@
-name = pritam piyush nayak 
-roll no = 1ETBTA20241113
+hello! pritam piyush nayak 
 SRI SRI UNIVERSITY
+skill = java , python
